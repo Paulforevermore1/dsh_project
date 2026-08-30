@@ -1,0 +1,6 @@
+[submodule "Test/dsh-usage"]
+	path = Test/dsh-usage
+	url = https://github.com/Aisland-SJL/dsh-usage.git
+[submodule "Test/StarMap"]
+	path = Test/StarMap
+	url = https://github.com/Aisland-SJL/StarMap.git
